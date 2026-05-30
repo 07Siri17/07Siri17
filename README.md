@@ -1,34 +1,117 @@
-Hi, I'm Divvela Harsha Siri Chandana 👋
+# Hi there 👋, I'm Divvela Harsha Siri Chandana
 
-🎓 B.Tech in Computer Science (2021–2025) from Tirumala Engineering College, Narasaraopet, Guntur.
+### Data Analyst | Data Science | AI & Data-Driven Problem Solver
 
-💼 Currently working as a Programmer Analyst at Cognizant (Chennai, India) since August 2025. Previously completed my internship as a Programmer Analyst Trainee from April 2025 to July 2025.
+I'm a Computer Science graduate passionate about transforming raw data into meaningful insights that drive business decisions. My interests lie at the intersection of **Data Analytics, Business Intelligence, Machine Learning, and Artificial Intelligence**.
 
-🚀 About Me
+Currently working as a **Programmer Analyst at Cognizant**, I enjoy solving business problems through data analysis, visualization, automation, and modern AI technologies.
 
-I am passionate about data, automation, and emerging AI technologies. I enjoy transforming raw data into meaningful insights and building solutions that solve real-world problems. I continuously explore new technologies and focus on improving my technical skills through hands-on projects and learning.
+---
 
-🛠️ Technical Skills
-Programming: Python
-Database: MySQL
-Data Analytics: Power BI, Excel
-Data Processing: NumPy, Pandas
-Data Engineering: ETL, Data Cleaning
-Visualization: Power BI, Excel Dashboards
-Operating Systems: Linux
-Machine Learning: Data Analysis, Predictive Modeling
-🌱 Currently Exploring
-Artificial Intelligence
-AI Agents
-Retrieval-Augmented Generation (RAG)
-Large Language Models (LLMs)
-Automation & Productivity Tools
-Data Engineering Concepts
-🎯 Career Interests
-Data Analytics
-Machine Learning
-Artificial Intelligence
-Business Intelligence
-Data Engineering
+## 👨‍💻 About Me
 
-"Continuous learning and consistent improvement drive meaningful growth."
+* 🎓 B.Tech in Computer Science (2021–2025)
+* 🏫 Tirumala Engineering College, Narasaraopet, Andhra Pradesh
+* 💼 Programmer Analyst at Cognizant, Chennai
+* 📊 Passionate about Data Analytics, Data Science, and Data-Driven Decision Making
+* 🤖 Exploring Generative AI, AI Agents, RAG Systems, and LLM Applications
+* 📈 Interested in turning complex datasets into actionable business insights
+* 🌱 Continuous learner focused on emerging technologies and analytics solutions
+
+---
+
+## 🚀 Technical Skills
+
+### Programming & Analytics
+
+* Python
+* SQL
+* MySQL
+
+### Data Analysis
+
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Validation
+
+### Data Visualization & Reporting
+
+* Power BI
+* Microsoft Excel
+* Interactive Dashboards
+* Business Reporting
+* KPI Development
+
+### Python Libraries
+
+* Pandas
+* NumPy
+
+### Data Engineering Concepts
+
+* ETL Processes
+* Data Modeling
+* Database Integration
+* Data Quality Management
+
+### Tools & Platforms
+
+* Linux
+* Git
+* GitHub
+* Power BI
+* MySQL
+
+---
+
+## 📊 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Data Visualization
+* Machine Learning
+* Artificial Intelligence
+* Generative AI
+* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* Data Engineering
+
+---
+
+## 📌 What You'll Find Here
+
+This GitHub profile showcases projects related to:
+
+* Data Analytics
+* SQL-Based Business Analysis
+* Power BI Dashboards
+* Python Data Processing
+* ETL Workflows
+* Machine Learning Experiments
+* Data Visualization
+* AI & Generative AI Exploration
+
+Each project focuses on solving real-world business problems using data-driven approaches.
+
+---
+
+## 📈 Current Focus
+
+* Advanced Data Analytics
+* Business Intelligence Solutions
+* AI-Powered Applications
+* Agentic AI Systems
+* RAG Architectures
+* End-to-End Data Projects
+
+---
+
+## 🎯 Career Objective
+
+To build a strong career in Data Analytics and AI by developing scalable, data-driven solutions that help organizations make smarter and more informed decisions.
+
+---
+
+### "Data is valuable only when transformed into actionable insights."
