@@ -12,7 +12,7 @@ Currently working as a **Programmer Analyst at Cognizant**, I enjoy solving busi
 
 * 🎓 B.Tech in Computer Science (2021–2025)
 * 🏫 Tirumala Engineering College, Narasaraopet, Andhra Pradesh
-* 💼 Programmer Analyst at Cognizant, Chennai
+* 💼 Programmer Analyst at Cognizant
 * 📊 Passionate about Data Analytics, Data Science, and Data-Driven Decision Making
 * 🤖 Exploring Generative AI, AI Agents, RAG Systems, and LLM Applications
 * 📈 Interested in turning complex datasets into actionable business insights
